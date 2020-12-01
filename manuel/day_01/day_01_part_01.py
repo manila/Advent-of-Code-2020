@@ -13,7 +13,7 @@ except IOError:
     print("input file doesn't exist")
     exit(2)
 except:
-    print("usage: ./day_01.py input_file sum_of_pairs")
+    print("usage: ./day_01_part_01.py input_file sum_of_pairs")
     exit(2)
 
 list_nums = []
