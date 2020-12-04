@@ -11,6 +11,6 @@ for s in f:
     elif s[0][int(b[0])-1]!=a and s[0][int(b[1])-1]==a:
         x+=1
 print('count-->',x)
-
+f.close()
 
 
