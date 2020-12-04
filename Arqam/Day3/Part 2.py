@@ -58,4 +58,5 @@ while b==4:
         b=5
 print(X5)
 print('Product-->',X1*X2*X3*X4*X5)
+f.close()
         
