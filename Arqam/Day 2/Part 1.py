@@ -10,7 +10,7 @@ for s in f:
     if cnt>=int(b[0]) and cnt<=int(b[1]):
         x+=1
 print('count-->',x)
-
+f.close()
 
 
 
