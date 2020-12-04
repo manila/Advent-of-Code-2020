@@ -13,7 +13,7 @@ while b==0:
     if len(s)-1==i:
         b=1
 print(X)
-
+f.close()
         
     
     
