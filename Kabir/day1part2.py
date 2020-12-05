@@ -8,6 +8,8 @@ product = 0
 for line in file:
     entries.append(int(line))
 
+file.close()
+
 for x in range(len(entries)):
     for y in range(len(entries)):
         for z in range(len(entries)):
